@@ -156,7 +156,11 @@ python weather_wardrobe.py
 
 🌍 Enter a city name: London
  DEBUG URL: https://api.openweathermap.org/data/2.5/weather?q=London&appid=your-api-key&units=metric
+ 
+
  DEBUG STATUS: 200
+
+ 
  DEBUG RESPONSE: {"main":{"temp":15.2},"weather":[{"description":"cloudy"}]...}
 
 - 📍 London
