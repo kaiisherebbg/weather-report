@@ -1,20 +1,20 @@
-### Weather Wardrobe: A Python Weather & Clothing Suggestion App
+## Weather report: A Python Weather & Clothing Suggestion App
 
-## Project Overview
+# Project Overview
 
 Welcome to Weather Wardrobe, my 4th project in the 100 Days of Coding challenge! This Python app uses the OpenWeatherMap API to fetch real-time weather data for any city and suggests appropriate clothing based on the temperature. It’s a simple, fun, and practical tool to help you dress for the day!
 
-## Features
+# Features
 
 
 
 
 
-# Weather Lookup: Enter a city name to get the current temperature (in Celsius) and weather condition.
+ Weather Lookup: Enter a city name to get the current temperature (in Celsius) and weather condition.
 
 
 
-# Clothing Suggestions: Get emoji-powered outfit ideas based on temperature ranges:
+ Clothing Suggestions: Get emoji-powered outfit ideas based on temperature ranges:
 
 
 
@@ -36,33 +36,33 @@ Welcome to Weather Wardrobe, my 4th project in the 100 Days of Coding challenge!
 
 
 
-# Debug Mode: Prints the API URL, status code, and response for easy troubleshooting.
+ Debug Mode: Prints the API URL, status code, and response for easy troubleshooting.
 
 
 
-# User-Friendly: Simple input and clear output with emojis for a fun touch.
+ User-Friendly: Simple input and clear output with emojis for a fun touch.
 
-## Tech Stack
-
-
+# Tech Stack
 
 
 
-# Language: Python 3
+
+
+ Language: Python 3
 
 
 
-# Library: requests for API calls
+ Library: requests for API calls
 
 
 
-# API: OpenWeatherMap (free tier)
+ API: OpenWeatherMap (free tier)
 
 
 
-# Key Concepts: API integration, HTTP requests, JSON parsing, conditional logic
+ Key Concepts: API integration, HTTP requests, JSON parsing, conditional logic
 
-## How It Works
+# How It Works
 
 
 
@@ -86,9 +86,9 @@ Welcome to Weather Wardrobe, my 4th project in the 100 Days of Coding challenge!
 
 - Debug info (URL, status, response) helps track issues.
 
-## Setup
+ Setup
 
-# Prerequisites
+ Prerequisites
 
 
 
@@ -104,41 +104,41 @@ Welcome to Weather Wardrobe, my 4th project in the 100 Days of Coding challenge!
 
 - An OpenWeatherMap API key (sign up at openweathermap.org)
 
-## Installation
+# Installation
 
 
 
 
 
-# Clone this repo:
+ Clone this repo:
 
 git clone https://github.com/your-username/weather-wardrobe.git
 
 
 
-# Navigate to the project:
+ Navigate to the project:
 
 cd weather-wardrobe
 
 
 
-# Install dependencies:
+ Install dependencies:
 
 pip install requests
 
 
 
-# Replace the API_KEY in the code with your own from OpenWeatherMap:
+ Replace the API_KEY in the code with your own from OpenWeatherMap:
 
 API_KEY = 'your-api-key-here'
 
 
 
-# Run the script:
+ Run the script:
 
 python weather_wardrobe.py
 
-## Usage
+# Usage
 
 
 
@@ -152,7 +152,7 @@ python weather_wardrobe.py
 
 
 
-## Example output:
+# Example output:
 
 🌍 Enter a city name: London
  DEBUG URL: https://api.openweathermap.org/data/2.5/weather?q=London&appid=your-api-key&units=metric
@@ -164,7 +164,7 @@ python weather_wardrobe.py
 - 🌦️ Weather: cloudy
 - 👚 Clothing Suggestion: 🧥 It's cool. A light jacket would be nice.
 
-## Limitations
+# Limitations
 
 
 
@@ -180,7 +180,7 @@ python weather_wardrobe.py
 
 - Temperature-based suggestions are simplified (no wind, humidity, etc.).
 
-## Future Improvements
+# Future Improvements
 
 
 
@@ -200,7 +200,7 @@ python weather_wardrobe.py
 
 - Add a GUI for a better user experience.
 
-## Learning Outcomes
+# Learning Outcomes
 
 
 
@@ -220,7 +220,7 @@ python weather_wardrobe.py
 
 - Gained experience with real-world data and error handling.
 
-## Acknowledgments
+# Acknowledgments
 
 
 
@@ -230,8 +230,8 @@ Thanks to OpenWeatherMap for the free API.💗
 
 
 
-# Part of my 100 Days of Coding journey—day 4 of 100!
+ Part of my 100 Days of Coding journey—day 4 of 100!
 
-## License
+# License
 
-# MIT License—feel free to use, modify, and share!
+ MIT License—feel free to use, modify, and share!
