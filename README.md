@@ -112,7 +112,7 @@ Welcome to Weather report, my 4th project in the 100 Days of Coding challenge! T
 
  - Clone this repo:
 
-git clone https://github.comkaiisherebbg/weather-report.git
+git clone https://github.com/kaiisherebbg/weather-report.git
 
 
 
