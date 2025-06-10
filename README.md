@@ -112,13 +112,13 @@ Welcome to Weather report, my 4th project in the 100 Days of Coding challenge! T
 
  - Clone this repo:
 
-git clone https://github.com/your-username/weather-wardrobe.git
+git clone https://github.comkaiisherebbg/weather-report.git
 
 
 
  - Navigate to the project:
 
-cd weather-wardrobe
+cd weather-report
 
 
 
@@ -136,7 +136,7 @@ API_KEY = 'your-api-key-here'
 
  - Run the script:
 
-python weather_wardrobe.py
+python weather_report.py
 
 # Usage
 
@@ -154,7 +154,7 @@ python weather_wardrobe.py
 
 # Example output:
 
-🌍 Enter a city name: London
+🌍 Enter a city name: dehradun
  DEBUG URL: https://api.openweathermap.org/data/2.5/weather?q=London&appid=your-api-key&units=metric
  
 
@@ -163,7 +163,7 @@ python weather_wardrobe.py
  
  DEBUG RESPONSE: {"main":{"temp":15.2},"weather":[{"description":"cloudy"}]...}
 
-- 📍 London
+- 📍 dehradun
 - 🌡️ Temperature: 15.2°C
 - 🌦️ Weather: cloudy
 - 👚 Clothing Suggestion: 🧥 It's cool. A light jacket would be nice.
