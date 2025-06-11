@@ -36,7 +36,6 @@ Welcome to Weather report, my 4th project in the 100 Days of Coding challenge! T
 
 
 
- Debug Mode: Prints the API URL, status code, and response for easy troubleshooting.
 
 
 
