@@ -6,9 +6,9 @@ BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 def get_weather(city):
     url = f"{BASE_URL}?q={city}&appid={API_KEY}&units=metric"
     response = requests.get(url)
-    print("DEBUG URL:", url)  # ✅ Show the full request URL
-    print("DEBUG STATUS:", response.status_code)  # ✅ See what status we got
-    print("DEBUG RESPONSE:", response.text)  # ✅ Full response content
+    ("DEBUG URL:", url)  # ✅ Show the full request URL
+    ("DEBUG STATUS:", response.status_code)  # ✅ See what status we got
+    ("DEBUG RESPONSE:", response.text)  # ✅ Full response content
     
     data = response.json()
 
