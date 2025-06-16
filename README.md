@@ -111,19 +111,19 @@ Welcome to Weather report, my 4th project in the 100 Days of Coding challenge! T
 
  - Clone this repo:
 
-git clone https://github.com/kaicodeswell/weather-report.git
+`git clone https://github.com/kaicodeswell/weather-report.git`
 
 
 
  - Navigate to the project:
 
-cd weather-report
+`cd weather-report`
 
 
 
  - Install dependencies:
 
-pip install requests
+`pip install requests`
 
 
 
@@ -135,7 +135,7 @@ API_KEY = 'your-api-key-here'
 
  - Run the script:
 
-python weather_report.py
+`python weather_report.py`
 
 # Usage
 
